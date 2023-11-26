@@ -1,0 +1,8 @@
+# ninja log v5
+0	12	1700986615979163186	FileCompressor_autogen/timestamp	f1d072a088001e60
+0	12	1700986615979163186	FileCompressor_autogen/mocs_compilation.cpp	f1d072a088001e60
+0	12	1700986615979163186	/home/anuj/Documents/QT-Intermmediate/Project/build-FileCompressor-Desktop_Qt_6_6_0_GCC_64bit-Debug/FileCompressor_autogen/timestamp	f1d072a088001e60
+0	12	1700986615979163186	/home/anuj/Documents/QT-Intermmediate/Project/build-FileCompressor-Desktop_Qt_6_6_0_GCC_64bit-Debug/FileCompressor_autogen/mocs_compilation.cpp	f1d072a088001e60
+12	25	1700986615995163592	CMakeFiles/FileCompressor.dir/FileCompressor_autogen/mocs_compilation.cpp.o	1acc75b8d332b146
+12	1335	1700986617303196708	CMakeFiles/FileCompressor.dir/main.cpp.o	6a6d0af083456da5
+1335	1451	1700986617419199641	FileCompressor	335b6250a5788b1c
